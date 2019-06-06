@@ -1,0 +1,23 @@
+{
+  "name": "hdr-decode",
+  "version": "1.0.0",
+  "description": "command line tool to decode histograms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "histogram",
+    "hdrhistogram",
+    "hdr",
+    "high-dynamic-range",
+    "decode",
+    "cli"
+  ],
+  "author": "Bruce A. MacNaughton",
+  "license": "MIT",
+  "dependencies": {
+    "hdr-histogram-js": "^1.1.4",
+    "minimist": "^1.2.0"
+  }
+}
